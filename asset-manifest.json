@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spotter/static/css/main.77f41f5a.css",
+    "main.js": "/spotter/static/js/main.c71f0a9b.js",
+    "static/js/787.ac374094.chunk.js": "/spotter/static/js/787.ac374094.chunk.js",
+    "index.html": "/spotter/index.html",
+    "main.77f41f5a.css.map": "/spotter/static/css/main.77f41f5a.css.map",
+    "main.c71f0a9b.js.map": "/spotter/static/js/main.c71f0a9b.js.map",
+    "787.ac374094.chunk.js.map": "/spotter/static/js/787.ac374094.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f41f5a.css",
+    "static/js/main.c71f0a9b.js"
+  ]
+}
