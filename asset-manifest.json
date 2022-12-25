@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/spotter/static/css/main.c2fa1bbf.css",
-    "main.js": "/spotter/static/js/main.4e9a9957.js",
+    "main.css": "/spotter/static/css/main.28b8c69b.css",
+    "main.js": "/spotter/static/js/main.f5a02931.js",
     "static/js/845.484604ae.chunk.js": "/spotter/static/js/845.484604ae.chunk.js",
     "static/js/787.ac374094.chunk.js": "/spotter/static/js/787.ac374094.chunk.js",
     "static/media/error.ogg": "/spotter/static/media/error.c15f7a347a85e75971e5.ogg",
     "static/media/tick.ogg": "/spotter/static/media/tick.e1b1714866b0ae4dba26.ogg",
     "static/media/correct.ogg": "/spotter/static/media/correct.ae6c974e08d893aa83f9.ogg",
     "index.html": "/spotter/index.html",
-    "main.c2fa1bbf.css.map": "/spotter/static/css/main.c2fa1bbf.css.map",
-    "main.4e9a9957.js.map": "/spotter/static/js/main.4e9a9957.js.map",
+    "main.28b8c69b.css.map": "/spotter/static/css/main.28b8c69b.css.map",
+    "main.f5a02931.js.map": "/spotter/static/js/main.f5a02931.js.map",
     "845.484604ae.chunk.js.map": "/spotter/static/js/845.484604ae.chunk.js.map",
     "787.ac374094.chunk.js.map": "/spotter/static/js/787.ac374094.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2fa1bbf.css",
-    "static/js/main.4e9a9957.js"
+    "static/css/main.28b8c69b.css",
+    "static/js/main.f5a02931.js"
   ]
 }
