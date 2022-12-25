@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/spotter/static/css/main.28b8c69b.css",
-    "main.js": "/spotter/static/js/main.1e534e12.js",
+    "main.js": "/spotter/static/js/main.2e24842c.js",
     "static/js/845.484604ae.chunk.js": "/spotter/static/js/845.484604ae.chunk.js",
     "static/js/787.ac374094.chunk.js": "/spotter/static/js/787.ac374094.chunk.js",
     "static/media/error.ogg": "/spotter/static/media/error.c15f7a347a85e75971e5.ogg",
@@ -9,12 +9,12 @@
     "static/media/correct.ogg": "/spotter/static/media/correct.ae6c974e08d893aa83f9.ogg",
     "index.html": "/spotter/index.html",
     "main.28b8c69b.css.map": "/spotter/static/css/main.28b8c69b.css.map",
-    "main.1e534e12.js.map": "/spotter/static/js/main.1e534e12.js.map",
+    "main.2e24842c.js.map": "/spotter/static/js/main.2e24842c.js.map",
     "845.484604ae.chunk.js.map": "/spotter/static/js/845.484604ae.chunk.js.map",
     "787.ac374094.chunk.js.map": "/spotter/static/js/787.ac374094.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.28b8c69b.css",
-    "static/js/main.1e534e12.js"
+    "static/js/main.2e24842c.js"
   ]
 }
