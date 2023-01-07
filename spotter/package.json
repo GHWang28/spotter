@@ -4,7 +4,6 @@
   "homepage": "https://GHWang28.github.io/spotter",
   "private": true,
   "dependencies": {
-    "@dnd-kit/utilities": "^3.2.0",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.10.15",
